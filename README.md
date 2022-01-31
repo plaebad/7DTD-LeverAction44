@@ -17,7 +17,7 @@ existing save, any existing Lever Action Rifles may lose whatever ammo is curren
 loaded into them and that ammo will not be returned to the player.
 
 ## Installation
-1) Copy this entire folder (PlaebadLeverAction44) into the Mods folder in your 7 Days to Die game directory
+1) Copy the enclosed PlaebadLeverAction44 folder into the Mods folder in your 7 Days to Die game directory
 
 You should end up with a path such as ```C:\Steam\steamapps\common\7 Days To Die\Mods\PlaebadLeverAction44```
 
