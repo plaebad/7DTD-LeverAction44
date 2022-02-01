@@ -9,8 +9,8 @@
 	<set xpath="/items/item[@name='questRewardT2RifleBundle']/property[@class='Action0']/property[@name='Create_item']/@value">gunRifleT2LeverActionRifle,ammo44MagnumBulletBall</set>
 	<!-- Add Ranged tag to 44 ammo to properly apply dmg to the Lever Action Rifle-->
 	<set xpath="/items/item[@name='ammo44MagnumBulletBall']/effect_group[@name='ammo44MagnumBulletBall']/passive_effect[@name='EntityDamage']/@tags">perkGunslinger,revolver,ranged</set>
-	<set xpath="/items/item[@name='ammo44MagnumBulletHP']/effect_group[@name='ammo44MagnumBulletBall']/passive_effect[@name='EntityDamage']/@tags">perkGunslinger,revolver,ranged</set>
-	<set xpath="/items/item[@name='ammo44MagnumBulletAP']/effect_group[@name='ammo44MagnumBulletBall']/passive_effect[@name='EntityDamage']/@tags">perkGunslinger,revolver,ranged</set>
+	<set xpath="/items/item[@name='ammo44MagnumBulletHP']/effect_group[@name='ammo44MagnumBulletHP']/passive_effect[@name='EntityDamage']/@tags">perkGunslinger,revolver,ranged</set>
+	<set xpath="/items/item[@name='ammo44MagnumBulletAP']/effect_group[@name='ammo44MagnumBulletAP']/passive_effect[@name='EntityDamage']/@tags">perkGunslinger,revolver,ranged</set>
 	<!-- Adjust weapon damage to make it consistent with 44 handguns so it is not OP -->
 	<set xpath="/items/item[@name='gunRifleT2LeverActionRifle']/effect_group[@name='gunRifleT2LeverActionRifle']/passive_effect[@name='EntityDamage' and @operation='base_add']/@value">-2</set>
 
