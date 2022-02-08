@@ -21,6 +21,11 @@ loaded into them and that ammo will not be returned to the player.
 
 You should end up with a path such as ```C:\Steam\steamapps\common\7 Days To Die\Mods\PlaebadLeverAction44```
 
+## Support
+
+Feedback and support requests can be submitted in Discord [https://discord.gg/PNp5k47zhB](https://discord.gg/PNp5k47zhB)
+in the plaebad-lever-action-44 channel.
+
 ## Disclaimer
 The mod author is not responsible for any damages or lost data that may occur from
 the use of this mod.
