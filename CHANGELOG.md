@@ -8,3 +8,6 @@
 
 ## V1.1.0 - Feb 8, 2022
 - Updated to apply bonuses from Magnum Enforcer series books 1, 3, 4, 7, and series completion bonus to Lever Action Rifle
+
+## V2.0.0 - Jun 12, 2023
+- Updated to be compatible with Alpha 21 changes
