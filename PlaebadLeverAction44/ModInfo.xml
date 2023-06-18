@@ -1,10 +1,9 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <xml>
-	<ModInfo>
-		<Name value="LeverAction44" />
-		<Description value="Convert Lever Action rifle to use .44 ammo" />
-		<Author value="Plaebad" />
-		<Version value="1.1.0" />
-		<Website value="" />
-	</ModInfo>
+	<Name value="LeverAction44" />
+	<DisplayName value="Lever Action Rilfe .44 Ammo Conversion" />
+	<Description value="Convert Lever Action rifle to use .44 ammo" />
+	<Author value="Plaebad" />
+	<Version value="2.0.0" />
+	<Website value="" />
 </xml>
