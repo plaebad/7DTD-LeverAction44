@@ -2,8 +2,8 @@
 <xml>
 	<Name value="LeverAction44" />
 	<DisplayName value="Lever Action Rilfe .44 Ammo Conversion" />
-	<Description value="Convert Lever Action rifle to use .44 ammo" />
+	<Description value="Convert Lever Action rifle to use .44 ammo. Compatible with v1.0" />
 	<Author value="Plaebad" />
-	<Version value="2.0.0" />
-	<Website value="" />
+	<Version value="3.0.0" />
+	<Website value="https://github.com/plaebad/7DTD-LeverAction44" />
 </xml>

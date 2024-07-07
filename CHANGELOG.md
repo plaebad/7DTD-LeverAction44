@@ -11,3 +11,6 @@
 
 ## V2.0.0 - Jun 12, 2023
 - Updated to be compatible with Alpha 21 changes
+
+## v3.0.0 - Jul 5, 2024
+- Updated to be compatible with v1.0 release

@@ -4,12 +4,13 @@ A [7 Days to Die](https://7daystodie.com/) game mod that converts the Lever Acti
 ## Description
 This mod modifies the Lever Action Rifle to use .44 Ammo instead of the default 7.62 ammo.
 
-All item packs and quest reward bundles that give the Lever Action Rifle have
-been modified to include .44 ammo instead of the 7.62 ammo.
-The base damage of the Lever Action Rifle has been slightly reduced to keep it
-from being too OP. The damage of an unmodded Lever Action Rifle with no associated
-perks is slightly higher than when using the 7.62 ammo but slightly lower than the
-comparable tier .44 handguns. No other changes have been made to the weapon.
+The following changes are currently implemented:
+
+- Lever Action Rifle uses .44 Magnum ammo
+- Item packs and quest rewards that give the Lever Action Rifle have been updated to give
+.44 Magnum ammo instead of 7.62mm ammo
+- Magnum Enforcer book series bonuses are applied to the Lever Action Rifle
+- Enforcer gear set bonus is applied to the Lever Action Rifle
 
 This mod can be added to or removed from existing saves without any known critical
 side effects.  It should be noted that if this mod is added to or removed from an
@@ -17,9 +18,26 @@ existing save, any existing Lever Action Rifles may lose whatever ammo is curren
 loaded into them and that ammo will not be returned to the player.
 
 ## Installation
-1) Copy the enclosed PlaebadLeverAction44 folder into the Mods folder in your 7 Days to Die game directory
+Copy the enclosed PlaebadLeverAction44 folder into your Mods folder
 
-You should end up with a path such as ```C:\Steam\steamapps\common\7 Days To Die\Mods\PlaebadLeverAction44```
+You can place mods in your 7 Days to Die game directory Mods folder
+
+```C:\Steam\steamapps\common\7 Days To Die\Mods```
+
+-OR-
+
+You can also place your mods in the same directory where your save game files
+are located
+
+```%APPDATA%\7DaysToDie\Mods```
+
+
+In either case you should end up with a path that looks something like:
+
+```<YOUR MOD DIRECTORY PATH>\PlaebadLeverAction44```
+
+## Current Version
+v3.0.0
 
 ## Support
 
