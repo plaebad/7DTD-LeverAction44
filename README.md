@@ -1,4 +1,6 @@
 # 7DTD-LeverAction44 Mod
+![Mod Image](ModImage.jpg "Lever Action 44 Mod Image")
+
 A [7 Days to Die](https://7daystodie.com/) game mod that converts the Lever Action Rifle to use .44 Magnum ammo
 
 ## Description
